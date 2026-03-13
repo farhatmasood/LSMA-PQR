@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+title: >-
+  LSMA-PQR: A Comprehensive Dataset of Lumbar Spine Multi-view
+  Annotations with Pfirrmann Grading, Quantitative Measurements
+  and Structured Radiological Reports
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Rao Farhat
+    family-names: Masood
+    email: farhatmasood.fm@gmail.com
+    orcid: 'https://orcid.org/0000-0001-9054-9192'
+    affiliation: >-
+      Dept. of Electrical and Computer Engineering,
+      Capital University of Science and Technology, Islamabad, Pakistan
+  - given-names: Imtiaz Ahmad
+    family-names: Taj
+    email: imtiaztaj@cust.edu.pk
+    orcid: 'https://orcid.org/0000-0003-1813-5563'
+    affiliation: >-
+      Dept. of Electrical and Computer Engineering,
+      Capital University of Science and Technology, Islamabad, Pakistan
+  - given-names: Muhammad Babar
+    family-names: Khan
+    email: babar1967@me.com
+    orcid: 'https://orcid.org/0009-0003-2473-8640'
+    affiliation: >-
+      Dept. of Radiology, Combined Military Hospital, Kharian, Pakistan
+  - given-names: Muhammad Asad
+    family-names: Qureshi
+    email: asadspine@gmail.com
+    affiliation: >-
+      Dept. of Spinal Surgery, Bahria International Hospital,
+      Rawalpindi, Pakistan
+  - given-names: Muhammad
+    family-names: Talha
+    email: mhd.talha@hotmail.com
+    orcid: 'https://orcid.org/0009-0001-0941-1733'
+    affiliation: >-
+      Dept. of Spinal Surgery, Combined Military Hospital,
+      Rawalpindi, Pakistan
+identifiers:
+  - type: doi
+    value: 10.17632/p3r4xd2488.1
+    description: Mendeley Data repository
+repository: 'https://data.mendeley.com/datasets/p3r4xd2488/1'
+url: 'https://github.com/farhatmasood/LSMA-PQR'
+keywords:
+  - lumbar spine MRI
+  - medical image segmentation
+  - Pfirrmann grading
+  - intervertebral disc degeneration
+  - multi-view annotation
+  - clinical decision support
+license: CC-BY-4.0
+version: '1.0'
+date-released: '2025-12-19'
