@@ -44,7 +44,7 @@
 13. [Limitations](#13-limitations)
 14. [Citation](#14-citation)
 15. [License](#15-license)
-16. [Authors](#16-authors)
+<!-- 16. [Authors](#16-authors) -->
 
 ---
 
@@ -659,16 +659,22 @@ LSMA-PQR/
 If you use LSMA-PQR in your research, please cite:
 
 ```bibtex
-@article{masood2025lsmapqr,
-  title   = {{LSMA-PQR}: A Comprehensive Dataset of Lumbar Spine Multi-view
-             Annotations with {Pfirrmann} Grading, Quantitative Measurements
-             and Structured Radiological Reports},
-  author  = {Masood, Rao Farhat and Taj, Imtiaz Ahmad and Khan, Muhammad Babar
-             and Qureshi, Muhammad Asad and Talha, Muhammad},
-  journal = {Artificial Intelligence in Medicine},
-  year    = {2025},
-  doi     = {10.17632/p3r4xd2488.1},
-  note    = {Dataset available at \url{https://data.mendeley.com/datasets/p3r4xd2488/1}}
+
+@dataset{Masood2025LSMA_PQR,
+  author       = {Masood, Rao Farhat and Taj, Imtiaz Ahmad and Talha, Muhammad and Khan, M. Babar},
+  title        = {LSMA-PQR: Lumbar Spine Multi-view Annotations with Pfirrmann grading, Quantitative measurements and structured Radiological reports},
+  year         = {2025},
+  publisher    = {Mendeley Data},
+  version      = {V1},
+  doi          = {10.17632/p3r4xd2488.1},
+  url          = {https://doi.org/10.17632/p3r4xd2488.1}
+}
+
+@unpublished{Masood2026LSMAPQR,
+  title  = {{LSMA-PQR}: A Comprehensive Dataset of Lumbar Spine Multi-view Annotations with {Pfirrmann} Grading, Quantitative Measurements and Structured Radiological Reports},
+  author = {Masood, Rao Farhat and Taj, Imtiaz Ahmad and Khan, Muhammad Babar and Qureshi, Muhammad Asad and Talha, Muhammad},
+  year   = {2026},
+  note   = {Manuscript under review. Dataset available at \url{https://doi.org/10.17632/p3r4xd2488.1}}
 }
 ```
 
@@ -681,7 +687,7 @@ This dataset and all accompanying code are released under the [Creative Commons 
 You are free to share and adapt the material for any purpose, including commercial use, provided appropriate credit is given.
 
 ---
-
+<!-- 
 ## 16. Authors
 
 | Author | Affiliation | Role |
@@ -692,4 +698,4 @@ You are free to share and adapt the material for any purpose, including commerci
 | **Muhammad Asad Qureshi** | Dept. of Spinal Surgery, Bahria International Hospital, Rawalpindi | Clinical Validation, Investigation |
 | **Muhammad Talha** | Dept. of Spinal Surgery, Combined Military Hospital, Rawalpindi | Clinical Validation, Grading & Spinal Measurements |
 
-**Corresponding Author**: Rao Farhat Masood ([farhatmasood.fm@gmail.com](mailto:farhatmasood.fm@gmail.com)) | ORCID: [0000-0001-9054-9192](https://orcid.org/0000-0001-9054-9192)
+**Corresponding Author**: Rao Farhat Masood ([farhatmasood.fm@gmail.com](mailto:farhatmasood.fm@gmail.com)) | ORCID: [0000-0001-9054-9192](https://orcid.org/0000-0001-9054-9192) -->
