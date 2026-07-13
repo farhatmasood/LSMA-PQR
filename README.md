@@ -2,11 +2,12 @@
 <h3 align="center">Lumbar Spine Multi-view Annotations with Pfirrmann Grading,<br>Quantitative Measurements and Structured Radiological Reports</h3>
 
 <p align="center">
-  <a href="https://doi.org/10.17632/p3r4xd2488.1"><img src="https://img.shields.io/badge/DOI-10.17632%2Fp3r4xd2488.1-blue" alt="DOI"></a>
-  <a href="https://data.mendeley.com/datasets/p3r4xd2488/1"><img src="https://img.shields.io/badge/Mendeley%20Data-v1.0-orange" alt="Mendeley Data"></a>
+  <a href="https://doi.org/10.1007/s10278-026-02125-5"><img src="https://img.shields.io/badge/Paper-Journal%20of%20Imaging%20Informatics%20in%20Medicine-success" alt="Paper"></a>
+      <a href="https://doi.org/10.17632/p3r4xd2488.2"><img src="https://img.shields.io/badge/DOI-10.17632%2Fp3r4xd2488.2-blue" alt="DOI"></a>
+  <a href="https://data.mendeley.com/datasets/p3r4xd2488/2"><img src="https://img.shields.io/badge/Mendeley%20Data-v2.0-orange" alt="Mendeley Data"></a>
   <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey" alt="License"></a>
-  <img src="https://img.shields.io/badge/Images-4%2C120-green" alt="Images">
-  <img src="https://img.shields.io/badge/Patients-515-green" alt="Patients">
+  <!-- <img src="https://img.shields.io/badge/Images-4%2C120-green" alt="Images">
+  <img src="https://img.shields.io/badge/Patients-515-green" alt="Patients"> -->
 </p>
 
 <p align="center">
@@ -661,9 +662,9 @@ If you use LSMA-PQR in your research, please cite:
 ```bibtex
 
 @article{Masood2026LSMAPQR,
-  author       = {Masood, R. F. and Taj, I. A.},
+  author       = {Masood, Rao Farhat and Taj, Imtiaz Ahmad},
   title        = {LSMA-PQR: A Comprehensive Dataset of Lumbar Spine Multi-View Annotations with Pfirrmann Grading, Quantitative Measurements, and Structured Radiological Reports},
-  journal      = {Journal of Digital Imaging},
+  journal      = {Journal of Imaging Informatics in Medicine},
   year         = {2026},
   publisher    = {Springer},
   doi          = {10.1007/s10278-026-02125-5},
