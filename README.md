@@ -54,7 +54,7 @@ Automated analysis of lumbar spine MRI remains constrained by the absence of a c
 
 Baseline experiments on three downstream tasks -- multi-plane segmentation (mean Dice = 0.946), disc-aware Pfirrmann grading (quadratic weighted &kappa; = 0.51) and structured clinical findings extraction (weighted F1 = 0.59) -- demonstrate the dataset's utility for training and evaluating automated lumbar spine analysis systems.
 
-> **Data Access**: [https://data.mendeley.com/datasets/p3r4xd2488/1](https://data.mendeley.com/datasets/p3r4xd2488/1)
+> **Data Access**: [https://data.mendeley.com/datasets/p3r4xd2488/2](https://data.mendeley.com/datasets/p3r4xd2488/2)
 
 ---
 
@@ -660,21 +660,24 @@ If you use LSMA-PQR in your research, please cite:
 
 ```bibtex
 
+@article{Masood2026LSMAPQR,
+  author       = {Masood, R. F. and Taj, I. A.},
+  title        = {LSMA-PQR: A Comprehensive Dataset of Lumbar Spine Multi-View Annotations with Pfirrmann Grading, Quantitative Measurements, and Structured Radiological Reports},
+  journal      = {Journal of Digital Imaging},
+  year         = {2026},
+  publisher    = {Springer},
+  doi          = {10.1007/s10278-026-02125-5},
+  url          = {https://doi.org/10.1007/s10278-026-02125-5}
+}
+
 @dataset{Masood2025LSMA_PQR,
   author       = {Masood, Rao Farhat and Taj, Imtiaz Ahmad and Talha, Muhammad and Khan, M. Babar},
   title        = {LSMA-PQR: Lumbar Spine Multi-view Annotations with Pfirrmann grading, Quantitative measurements and structured Radiological reports},
   year         = {2025},
   publisher    = {Mendeley Data},
-  version      = {V1},
-  doi          = {10.17632/p3r4xd2488.1},
-  url          = {https://doi.org/10.17632/p3r4xd2488.1}
-}
-
-@unpublished{Masood2026LSMAPQR,
-  title  = {{LSMA-PQR}: A Comprehensive Dataset of Lumbar Spine Multi-view Annotations with {Pfirrmann} Grading, Quantitative Measurements and Structured Radiological Reports},
-  author = {Masood, Rao Farhat and Taj, Imtiaz Ahmad and Khan, Muhammad Babar and Qureshi, Muhammad Asad and Talha, Muhammad},
-  year   = {2026},
-  note   = {Manuscript under review. Dataset available at \url{https://doi.org/10.17632/p3r4xd2488.1}}
+  version      = {V2},
+  doi          = {10.17632/p3r4xd2488.2},
+  url          = {https://doi.org/10.17632/p3r4xd2488.2}
 }
 ```
 
